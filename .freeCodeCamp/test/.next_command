@@ -240,3 +240,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 PSQL --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students postgresql
 ./insert_data.sh
+./insert_data.sh
