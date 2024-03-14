@@ -162,3 +162,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cat inset_data.sh
 cat courses.csv
+insert_data.sh
+./insert_data.sh
