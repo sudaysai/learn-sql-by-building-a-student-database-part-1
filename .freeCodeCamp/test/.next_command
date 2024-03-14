@@ -242,3 +242,4 @@ psql --username=freecodecamp --dbname=students postgresql
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+./insert_data.sh
